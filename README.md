@@ -1,4 +1,10 @@
 # Grokking Coding Patterns
-The GitHub repository titled "Grokking Coding Patterns" is a comprehensive collection of coding patterns and solved tasks specifically designed to prepare for software engineering interviews. This repository serves as a valuable resource for job seekers aiming to excel in technical interviews by mastering common algorithms and problem-solving techniques. It systematically organizes problems based on specific patterns, such as Sliding Window, Two Pointers, Fast & Slow pointers, Merge Intervals, and more, providing clear explanations and solutions in various programming languages. Each pattern is accompanied by a set of example problems from popular coding platforms, offering practical experience and deeper understanding. This repository is an essential tool for developers at all levels seeking to improve their coding skills and boost their interview confidence.
+Hey there! Welcome to "Grokking Coding Patterns" - your go-to spot for getting up to speed with coding patterns and solving tasks that'll help you nail those software engineering interviews. Whether you're just starting out or looking to brush up on your skills, you've come to the right place!
+
+In this repo, we've got everything organized by popular coding patterns like Sliding Window, Two Pointers, Fast & Slow pointers, Merge Intervals, and loads more. And guess what? We're doing it all in Python, because who doesn't love Python, right? Plus, for each pattern, there's not just theory. You'll find hands-on Jupyter notebooks that let you play around with the code, see it in action, and really get the hang of things.
+
+But that's not all. We've cherry-picked a bunch of example problems from popular coding platforms to go with each pattern. It's like having a practice buddy who's there to challenge you and help you grow, making sure you're getting the real deal in terms of experience and understanding.
+
+So, whether you're prepping for your next big interview or just want to get better at solving coding problems, "Grokking Coding Patterns" is here to guide you every step of the way. Dive into the world of coding patterns with us, explore the notebooks, and let's tackle these problems together with Python. Happy coding!
 
 t.b.a

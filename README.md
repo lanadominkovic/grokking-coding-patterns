@@ -1,2 +1,4 @@
-# grokking-coding-patterns
-Key tool for coding interview prep, featuring organized coding patterns and solved examples aimed at boosting problem-solving skills for technical interviews. 
+# Grokking Coding Patterns
+The GitHub repository titled "Grokking Coding Patterns" is a comprehensive collection of coding patterns and solved tasks specifically designed to prepare for software engineering interviews. This repository serves as a valuable resource for job seekers aiming to excel in technical interviews by mastering common algorithms and problem-solving techniques. It systematically organizes problems based on specific patterns, such as Sliding Window, Two Pointers, Fast & Slow pointers, Merge Intervals, and more, providing clear explanations and solutions in various programming languages. Each pattern is accompanied by a set of example problems from popular coding platforms, offering practical experience and deeper understanding. This repository is an essential tool for developers at all levels seeking to improve their coding skills and boost their interview confidence.
+
+t.b.a
